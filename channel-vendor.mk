@@ -837,7 +837,6 @@ PRODUCT_PACKAGES += \
     CneApp \
     TimeService \
     QtiTelephonyService \
-    datastatusnotification \
     ims \
     qcrilmsgtunnel \
     vendor.qti.data.factory-V1.0-java \
